@@ -1,0 +1,172 @@
+body {
+  margin: auto 0;
+  padding: auto 0;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.header {
+  background-image: url("../img/Bitmap-1.webp");
+  width: 1440px;
+  height: 810px;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 164px;
+  padding-right: 166px;
+  padding-bottom: 121px;
+}
+
+.header-subtitle {
+  font-size: 14px;
+  padding-left: 164px;
+}
+
+.header-title {
+  font-size: 60px;
+  font-weight: 700;
+  padding-left: 164px;
+}
+
+.header-text {
+  font-size: 16px;
+  padding-left: 164px;
+}
+
+.header-link {
+  background-color: rgba(255, 255, 255, 0);
+  border: 0px;
+  color: #FFD723;
+  font-style: 14px;
+  padding-left: 164px;
+}
+
+.brands {
+  width: 1276px;
+  height: 227px;
+  position: absolute;
+  background-color: white;
+  margin-top: 708px;
+  margin-left: 165px;
+}
+
+.brands-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+  gap: 66px;
+  box-shadow: 50px 50px 100px 0px rgba(0, 0, 0, 0.1450980392);
+}
+
+.strategy {
+  width: 1109px;
+  height: 644px;
+}
+
+.strategy-container {
+  margin-top: 244px;
+  margin-left: 165px;
+  display: flex;
+  align-items: center;
+}
+
+.strategy-subtitle {
+  color: rgba(77, 83, 60, 0.8980392157);
+  font-style: 14px;
+  font-weight: 400;
+}
+
+.strategy-title {
+  font-weight: 700;
+  font-style: 36px;
+  color: #4D533C;
+}
+
+.strategy-text {
+  font-weight: 400;
+  font-style: 16px;
+  color: rgba(33, 56, 66, 0.6);
+}
+
+.strategy-link {
+  font-style: 16px;
+  font-weight: 400;
+  color: #D4D6D4;
+}
+
+.strategy-message-container {
+  width: 474px;
+  height: 644px;
+  box-shadow: 0px 100px 100px 0px rgba(0, 0, 0, 0.1450980392);
+  background-color: white;
+}
+
+.projects-container {
+  display: flex;
+  gap: 133px;
+  text-align: left;
+}
+
+.projects-title {
+  font-style: 36px;
+  font-weight: 700;
+  color: #4D533C;
+  margin-left: 165px;
+}
+
+.projects-text {
+  color: rgba(33, 56, 66, 0.6);
+  font-style: 16px;
+  font-weight: 400;
+}
+
+.bitmap-container {
+  display: flex;
+  text-align: left;
+  align-items: center;
+}
+
+.bitmap-info {
+  margin-left: 56px;
+}
+
+.bitmap-title {
+  color: #4D533C;
+  font-style: 36px;
+  font-weight: 700;
+  padding-bottom: 24px;
+}
+
+.bitmap-text {
+  color: rgba(33, 56, 66, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.bt-2 {
+  padding-bottom: 90px;
+}
+
+.bitmap-link {
+  font-style: 16px;
+  font-weight: 400;
+  color: #D4D6D4;
+}
+
+.bitmap-com {
+  width: 453px;
+  height: 243px;
+  box-shadow: 50px 50px 100px 0px rgba(0, 0, 0, 0.1450980392);
+  border-radius: 8px;
+  position: absolute;
+}

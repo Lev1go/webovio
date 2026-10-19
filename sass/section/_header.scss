@@ -1,0 +1,55 @@
+.header {
+    background-image: url("../img/Bitmap-1.webp");
+    width: 1440px;
+    height: 810px;
+    color: white;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 164px;
+    padding-right: 166px;
+    padding-bottom: 121px;
+}
+
+.header-subtitle {
+    font-size: 14px;
+    padding-left: 164px;
+}
+
+.header-title {
+    font-size: 60px;
+    font-weight: 700;
+    padding-left: 164px;
+}
+
+.header-text {
+    font-size: 16px;
+    padding-left: 164px;
+}
+
+.header-link {
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px;
+    color: #FFD723;
+    font-style: 14px;
+    padding-left: 164px;
+}
+
+.brands {
+    width: 1276px;
+    height: 227px;
+    position: absolute;
+    background-color: white;
+    margin-top: 708px;
+    margin-left: 165px;
+}
+
+.brands-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    gap: 66px;
+    box-shadow: 50px 50px 100px 0px #00000025;
+}
